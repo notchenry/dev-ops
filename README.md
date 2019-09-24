@@ -10,3 +10,7 @@ Comments:
 Great article! It was interesting how companies want to make money by welling the extensions good enough so customers will need the company's proprietary offerings since if the open source is too good, customers will no longer pay for the add-ons.
 
 Soo Spitz
+
+
+>**EDIT: Henry Chen**
+>I think you brought up an interesting conversation about how developers should share their work. Businessed tend to limit others because of value in their product. AWS, for example, has free trials, but with limited usage. This is smart for both sides because developers can test out the software and decide if they want to use it or not for their own project, and they don't have to pay if they don't like the product.
